@@ -30,7 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
  </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnsl&show_icons=true&locale=en" alt="vnsl" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnsl&show_icons=true&locale=en&layout=compact" alt="vnsl" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vnsl&show_icons=true&locale=en" alt="vnsl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnsl&show_icons=true&locale=en&layout=compact" alt="vnsl" /></p>
 
 
