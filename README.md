@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="15%" />, I'm Vinicius Nattan </h1>
+<h1><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="15%" />, I'm Vinicius Nattan </h1>
 
-<img align="center" src="https://media.giphy.com/media/l4FGjdn5AJxRcAjVC/giphy.gif" />
+<h2 align="center"><img align="center" src="https://media.giphy.com/media/l4FGjdn5AJxRcAjVC/giphy.gif" /></h2>
 <h3 align="center">A full-stack developer willing to learn and work everything related to coding !</h3>
 
 - 🔭 I’m currently working on **personal projects**
